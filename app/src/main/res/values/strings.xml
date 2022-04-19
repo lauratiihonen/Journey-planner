@@ -1,0 +1,24 @@
+<resources>
+    <string name="search" >Hae matkaa</string>
+    <string name="journeyPlanner" >Reittiopas</string>
+    <string name="date" >Päivämäärä</string>
+    <string name="departure" >Lähtöpaikka</string>
+    <string name="destination" >Määränpää</string>
+    <string name="matkat">Päivän matkat</string>
+    <string name="departureText">\Lähtöaika: \</string>
+    <string name="arrivalText">\Saapumisaika: \</string>
+
+    <string-array name="departure">
+        <item>Helsinki</item>
+        <item>Tampere</item>
+
+</string-array>
+    <string-array name="destination">
+        <item>Tampere</item>
+        <item>Helsinki</item>
+    </string-array>
+    <string name="app_name">Reittiopas</string>
+    <string name="error">Lähtöpaikka ja määränpää eivät voi olla sama kaupunki.</string>
+    <string name="date_error">Valitse matkan päivämäärä!</string>
+    <string name="network_error">Internet ei ole päällä. Tarkista internetin tila tai yritä myöhemmin uudelleen.</string>
+</resources>

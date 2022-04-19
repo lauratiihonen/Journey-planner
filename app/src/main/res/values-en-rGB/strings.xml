@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Journey planner</string>
+    <string name="search">Search for journeys</string>
+    <string name="journeyPlanner">Journey planner</string>
+    <string name="date">Date</string>
+    <string name="departure">Departure</string>
+    <string name="destination">Destination</string>
+    <string name="matkat">Todays journeys</string>
+    <string name="departureText">Departure time</string>
+    <string name="arrivalText">Arrival time</string>
+    <string name="error">Departure and destination cannot be the same</string>
+    <string name="date_error">Choose departure date!</string>
+    <string name="network_error">Internet connection is not on. Check your internet connection or try again later.</string>
+</resources>
